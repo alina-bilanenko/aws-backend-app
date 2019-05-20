@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:alina-bilanenko/aws0607-backend-app.git",
+    "project_destination_path": "aws0607-backend-app",
+    "application_name": "aws0607",
+    "project_technology": "rubyonrails",
+    "database_type": "postgresql"
+  }
+}
